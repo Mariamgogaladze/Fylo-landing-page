@@ -23,7 +23,7 @@ If you have any questions or feedback about this project, please contact the aut
 # Acknowledgments
 This project was inspired by the design and layout of the Fylo landing page on Frontend Mentor. Special thanks to Frontend Mentor for providing a great platform for learning and practicing web development.
 
-That's just an example, but you can customize it to fit your specific project and needs. The original design can be found at [https://www.frontendmentor.io/challenges/huddle-landing-page-with-a-single-introductory-section-B_2Wvxgi0]. 
+That's just an example, but you can customize it to fit your specific project and needs. The original design can be found at https://www.frontendmentor.io/challenges/fylo-landing-page-with-two-column-layout-5ca5ef041e82137ec91a50f5
 
 
  
