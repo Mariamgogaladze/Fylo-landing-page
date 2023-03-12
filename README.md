@@ -5,7 +5,7 @@ This is a landing page project for Fylo, built using HTML and CSS. The page incl
 # Installation
 To use this project, simply clone or download the repository and open the main.html file in your web browser.
 
-# bash
+
 # Copy code
 git clone https://github.com/Mariamgogaladze/Fylo-landing-page
 
